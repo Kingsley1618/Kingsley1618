@@ -8,7 +8,7 @@
 <img align="left" width="10%" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
 
-## Frameworks and some Libraries
+## Frameworks/Libaries
 <div align = "center">
 <img align="left" width="10%" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img align="left" width="10%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
