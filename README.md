@@ -22,6 +22,7 @@
 ---
 
 :fire: My Stats :
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kingsley1618&theme=shades-of-purple&hide_border=true&border_radius=4.6&card_width=500&currStreakNum=EB45B1)](https://git.io/streak-stats)
+</div>
 
