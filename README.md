@@ -1,9 +1,8 @@
 ## Hi there, I am Kingsley Okeze
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ibrahimijai&show_icons=true&theme=cobalt"/>
-<img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimijai&layout=compact"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=kingsley1618&show_icons=true&theme=cobalt"/>
+<img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsley1618&layout=compact"/>
 
-<img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimijai&layout=compact"/>
 
 ## Programing Languages
 <img align="left" width="10%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
