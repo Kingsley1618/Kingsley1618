@@ -1,7 +1,7 @@
 ## Hi there, I am Kingsley Okeze
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=kingsley1618&show_icons=true&theme=cobalt"/>
-<img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsley1618&layout=compact"/>
+
 
 
 ## Programing Languages
