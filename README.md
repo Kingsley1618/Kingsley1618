@@ -1,5 +1,6 @@
 ## Hi there, I am Kingsley Okeze
-<img align = "center" width = "100%" src ="https://i.ytimg.com/vi/F3ztn4H6Ftg/sddefault.jpg" />
+<img align = "center" width = "100%" src ="![image](https://github.com/Kingsley1618/Kingsley1618/assets/89419401/c23dbe1a-e4be-4885-abdc-8c020927ed4f)
+" />
 ## Programing Languages
 <img align="left" width="10%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" width="10%" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
